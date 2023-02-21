@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "524138370314",
+    "project_id": "btct-59d13",
+    "storage_bucket": "btct-59d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524138370314:android:ffde442e5ba5ac6d6756f3",
+        "android_client_info": {
+          "package_name": "com.vttv.dgpcnl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524138370314-jfme93p9n5auq7vusmi7jl09u1j315tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB78-dk3FTHiXn1fwUKL_Xih93uGVxo6kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524138370314-jfme93p9n5auq7vusmi7jl09u1j315tv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524138370314-043mjvcvh7t9f76u1o6rv2q63i824e7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.VTTV.DGPCNL"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
